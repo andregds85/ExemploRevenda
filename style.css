@@ -1,0 +1,37 @@
+#cabecalho{
+padding: 5%;    
+background-color: white;
+}
+
+#carros{
+padding: 50%;
+background-image: url("https://s2.glbimg.com/qySgvtRnEDPIg0O8aKPpoTdIB6E=/620x345/e.glbimg.com/og/ed/f/original/2021/01/13/carros_marcelo_camargo.jpg");
+background-size: cover;
+}
+
+#contato{
+padding: 50%;
+background-color: red;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpnuFkZoZe4nseGB2gS-CRA93OtUtVCIckuq4Jjoa0A&s=10");
+background-size: cover;
+}
+
+li{
+display: inline;
+color: white;
+}
+
+a{
+  color: white;
+  background-color: red;
+  font-size: 20px;
+  font-family: verdana;
+  text-decoration: none;
+}
+
+a:hover{
+background-color: blue;
+font-size: 30px;
+border-radius: 10px;
+}
+
